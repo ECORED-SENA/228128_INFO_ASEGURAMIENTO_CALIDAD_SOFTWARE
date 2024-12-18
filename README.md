@@ -2,6 +2,6 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/228128_INFO_ASEGURAMIENTO_CALIDAD_SOFTWARE/](https://ecored-sena.github.io/228128_INFO_ASEGURAMIENTO_CALIDAD_SOFTWARE/)
 
 #
